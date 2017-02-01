@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7BEA8FA5-5C59-47C5-A512-B45FD24951D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharp/NarrowingCasting.cs">
+    <Files>
+      <File FileName="csharp/Program.cs" Line="19" Column="1" />
+      <File FileName="csharp/SecondClass.cs" Line="13" Column="16" />
+      <File FileName="csharp/NarrowingCasting.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.csharp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
