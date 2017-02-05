@@ -25,5 +25,25 @@ namespace csharp
 			Console.WriteLine("input value is: " + inputVal + ", output is: " + int1);
 			return int1;
 		}
+
+		public int Divis(int dvdr, int dvdbl)
+		{
+			return dvdr / dvdbl;
+		}
+
+		public int Addtition(int var1, int var2)
+		{
+			return var1 + var2;
+		}
+
+		public int Multiplication(int var1, int var2)
+		{
+			return var1 * var2;
+		}
+
+		public int Subtraction(int var1, int var2)
+		{
+			return var1 - var2;
+		}
 	}
 }

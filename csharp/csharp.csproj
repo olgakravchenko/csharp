@@ -30,6 +30,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="nunit.framework">
+      <HintPath>packages\NUnit.3.6.0\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
@@ -37,6 +40,13 @@
     <Compile Include="SecondClass.cs" />
     <Compile Include="NarrowingCasting.cs" />
     <Compile Include="PrimitiveConvertor.cs" />
+    <Compile Include="tests\UnitTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="tests\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

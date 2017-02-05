@@ -3,3 +3,4 @@
 /Users/momsfriendlymac/Desktop/csharp/csharp/csharp/bin/Debug/csharp.exe
 /Users/momsfriendlymac/Desktop/csharp/csharp/csharp/obj/x86/Debug/csharp.exe
 /Users/momsfriendlymac/Desktop/csharp/csharp/csharp/obj/x86/Debug/csharp.exe.mdb
+/Users/momsfriendlymac/Desktop/csharp/csharp/csharp/bin/Debug/nunit.framework.dll

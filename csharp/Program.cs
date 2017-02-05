@@ -8,15 +8,15 @@ namespace csharp
 		static void Main(string[] args)
 		{
 			SecondClass secClass = new SecondClass();
-			//secClass.Conversion();
+			secClass.Conversion();
 			NarrowingCasting narCast = new NarrowingCasting();
-			//narCast.Narrowing();
+			narCast.Narrowing();
 			PrimitiveConvertor primConv = new PrimitiveConvertor();
 			primConv.FloatToChar(0078f);
-			primConv.IntToChar(0077);
+			primConv.IntToChar(77);
 			primConv.CharToInt('A');
+
 		}
 
-			
 	}
 }

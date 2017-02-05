@@ -1,10 +1,20 @@
 ﻿<Properties StartupConfiguration="{7BEA8FA5-5C59-47C5-A512-B45FD24951D4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PrimitiveConvertor.cs">
     <Files>
-      <File FileName="NarrowingCasting.cs" Line="15" Column="2" />
-      <File FileName="Program.cs" Line="23" Column="1" />
-      <File FileName="PrimitiveConvertor.cs" Line="30" Column="1" />
+      <File FileName="NarrowingCasting.cs" Line="11" Column="15" />
+      <File FileName="Program.cs" Line="23" Column="2" />
+      <File FileName="PrimitiveConvertor.cs" Line="5" Column="3" />
+      <File FileName="tests/UnitTests.cs" Line="42" Column="3" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="csharp" expanded="True">
+            <Node name="csharp" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
